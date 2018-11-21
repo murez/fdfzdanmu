@@ -2,16 +2,6 @@
 这是一个网页展示slide + 实时弹幕评论系统。
 在展示ppt的同时得到实时反馈，同时也可以用于多人版聊工具、代替微信平台的观众（匿名）提问系统等。
 
-## slide展示
-
-![图片展示](https://raw.githubusercontent.com/liu946/danmuSlideServer/master/docs/show1.png)
-
-
-## 移动端弹幕发射器
-
-移动端也有弹幕显示器，可以看到所有终端发送的弹幕。功能并不依赖slide网页展示端的存在，也可用于多人版聊。
-
-![手机端图片展示](https://raw.githubusercontent.com/liu946/danmuSlideServer/master/docs/showphone.png)
 
 ## 运行方法
 
